@@ -11,7 +11,7 @@ const Hero = () => {
           {/* text */}
 
           <div className='text-center xl:text-left'>
-            <span>Wellcome to</span>
+            <span>Welcome to</span>
             <h1 className='text-[40px] font-bold capitalize leading-[3rem]'>
               Souvik <br />
               <span className='under-line'>Trading</span>

@@ -11,7 +11,7 @@ const Footer = () => {
       <div className='container flex flex-col items-center justify-between gap-4 xl:flex-row'>
         <p className='text-xl font-semibold uppercase'>
           {' '}
-          <span>® 2024</span> Sovik Trading
+          <span>® 2024</span> Souvik Trading
         </p>
         <Link to='/' spy={true} smooth={true} className='cursor-pointer'>
           <Image src='/logo.svg' width={80} height={80} alt='logo' />
